@@ -1,0 +1,10 @@
+R2D2 strength: 10
+Carl strength: 27
+Algorithms strength: 24
+IAmABar strength: 22
+xyz strength: 21
+123q456 strength: 15
+CooperUnion strength: 12
+DataStructures strength: 18
+xyz strength: 2
+CooperUnion strength: 3
