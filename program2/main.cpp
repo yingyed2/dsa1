@@ -1,4 +1,5 @@
-// Ying Ye Deng// Implmentation of stack & queue data structures via singly linked list,
+// Ying Ye Deng
+// Implmentation of stack & queue data structures via singly linked list,
 // commands processed from an input file and written to an output file
 
 #include <iostream>
